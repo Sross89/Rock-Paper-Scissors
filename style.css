@@ -1,0 +1,37 @@
+body{
+    background-color: lightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -15%);
+    text-align: center;
+}
+button{
+    border-radius: 6px;
+    background-color: coral;
+    border-width: 2px;
+    border-color: black;
+    padding: 20px 40px;
+}
+.computer{
+    border-radius: 6px;
+    background-color: olive;
+    border-width: 2px;
+    border-color: black;
+    padding: 20px 40px;
+    cursor: not-allowed;
+    opacity: 0.8;
+}
+textarea{
+    margin: 12px;
+    border-radius: 8px;
+    background-color: lightgray;
+    text-align: center;
+}
+h1{
+    font-size: 65px;
+}
+
+
